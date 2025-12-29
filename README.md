@@ -2,7 +2,7 @@
 
 Un sistema de gestión integral diseñado para optimizar las operaciones diarias de un restaurante, incluyendo la gestión de inventario, ventas, compras y usuarios. Construido con el stack TALL (Tailwind, Alpine.js, Laravel, Livewire) y utilizando **Filament PHP** para un panel de administración potente y elegante.
 
-![Mockup del Sistema](../mockup.png)
+![Mockup del Sistema](./mockup.png)
 
 ## 🚀 Características Principales
 
